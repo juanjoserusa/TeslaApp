@@ -9,7 +9,7 @@ const styles = StyleSheet.create({
         justifyContent: 'space-between',
         width:'100%',
         paddingHorizontal:20,
-        paddingTop:20
+        
 
     },
     logo: {

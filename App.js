@@ -1,5 +1,5 @@
 import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, View,} from 'react-native';
+import { StyleSheet, View, Dimensions} from 'react-native';
 import CarsList from './components/CarLists';
 import Header from './components/Header';
 
